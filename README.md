@@ -1,8 +1,8 @@
-# Rails with startbootstrap sb admin 2
+# SB admin 2 template working on Rail 6
 
 ## Using:
 
-- Ruby 2.6.4
+- Ruby 2.7.1
 - Rails 6.0.2
 - Bootstrap 4
 
@@ -29,7 +29,7 @@ rails db:create
 ```
 
 ```sh
-rails server
+rails s
 ```
 
 
@@ -41,5 +41,3 @@ rails server
 ## Preview
 
 [![SB Admin 2 Preview](https://startbootstrap.com/assets/img/screenshots/themes/sb-admin-2.png)](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)
-
-**[Launch Live Preview](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)**
